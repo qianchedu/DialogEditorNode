@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d2ef3ec4dc1da94d94561a8ba7bec36, type: 3}
+  m_Name: Part1
+  m_EditorClassIdentifier: 
+  StartBgm: {fileID: 8300000, guid: 7483754d6d031454288e460f1ef087be, type: 3}
+  BaseBg: {fileID: 21300000, guid: 3ce36248dcc580246bd9e3e17580005d, type: 3}
+  Perform: {fileID: 0}
+  Actions:
+  - ShowName: "\u7FBD\u6708"
+    Serifu: "\u8D1F\u8D23\u7BA1\u7406\u5BBF\u820D\u7684\u662F\u6211"
+    Voice: {fileID: 8300000, guid: b95a6a21d52ce9044858c25736438bf9, type: 3}
+    ChangeBgm: {fileID: 0}
+    ChangeBg: {fileID: 0}
+    PerformMark: 0
+  - ShowName: "\u7FBD\u6708"
+    Serifu: "\u4E0D\u662F\u5B66\u751F\u5417?"
+    Voice: {fileID: 0}
+    ChangeBgm: {fileID: 0}
+    ChangeBg: {fileID: 0}
+    PerformMark: 0
+  - ShowName: "\u7FBD\u6708"
+    Serifu: "\u4E0D\uFF0C\u6211\u4E5F\u662F\u548C\u4F60\u4EEC\u4E00\u6837\u7684\u5B66\u751F\u3002\u8A00\u8BED\u4E0D\u8DB3\u5BF9\u4E0D\u8D77\u3002\u6211\u53EB\u201C\u4E8C\u6761\u9662\u7FBD\u6708\u201D"
+    Voice: {fileID: 8300000, guid: 0fdfc11a6f9dd614b9972f1762d2c991, type: 3}
+    ChangeBgm: {fileID: 0}
+    ChangeBg: {fileID: 0}
+    PerformMark: 0
+  - ShowName: "\u7FBD\u6708"
+    Serifu: "\u7EDF\u7BA1\u5168\u4F53\u7684\u662F\u6559\u5458\uFF0C\u7BA1\u7406\u5404\u5BBF\u820D\u7684\u662F\u4F5C\u4E3A\u5BBF\u820D\u957F\u7684\u5B66\u751F\u3002"
+    Voice: {fileID: 8300000, guid: f7d480edb167edf4eb88181efc487f00, type: 3}
+    ChangeBgm: {fileID: 0}
+    ChangeBg: {fileID: 0}
+    PerformMark: 0
+  - ShowName: "\u7FBD\u6708"
+    Serifu: "\u5F53\u7136\u662F\u95EE\u4F60\u4EEC\u4FE9\u7684\u4E8B\u3002\u5230\u6211\u6240\u7BA1\u7406\u7684\u7B2C\u4E09\u5BBF\u820D\u53BB\u4F4F"
+    Voice: {fileID: 8300000, guid: 7e29382d3047a8f4faf8da74eafae776, type: 3}
+    ChangeBgm: {fileID: 0}
+    ChangeBg: {fileID: 0}
+    PerformMark: 0
+  - ShowName: "\u3055\u3068\u308B"
+    Serifu: "\u8BF4\u8BDD\u5F88\u5FEB\uFF0C\u5E2E\u5927\u5FD9\u4E86"
+    Voice: {fileID: 0}
+    ChangeBgm: {fileID: 0}
+    ChangeBg: {fileID: 0}
+    PerformMark: 0
+  - ShowName: "\u3055\u3068\u308B"
+    Serifu: "\u6211\u662F\u5728\u539F\u6653\u3002"
+    Voice: {fileID: 0}
+    ChangeBgm: {fileID: 0}
+    ChangeBg: {fileID: 0}
+    PerformMark: 0
+  - ShowName: "\u4E03\u6D77"
+    Serifu: "\u6211\u2026\u6211\u662F\u59B9\u59B9\u5728\u539F\u4E03\u6D77\u3002\u8BF7\u591A\u5173\u7167"
+    Voice: {fileID: 8300000, guid: 0db26fc99e0ad9c4c96b0eae2cb0a137, type: 3}
+    ChangeBgm: {fileID: 0}
+    ChangeBg: {fileID: 0}
+    PerformMark: 0
+  - ShowName: "\u7FBD\u6708"
+    Serifu: "\u77E5\u9053\u4E86\u3002\u4E03\u6D77\uFF0C\u8BF7\u591A\u5173\u7167\u3002"
+    Voice: {fileID: 8300000, guid: 5093d0dd9b64b0f42803afc904005506, type: 3}
+    ChangeBgm: {fileID: 0}
+    ChangeBg: {fileID: 0}
+    PerformMark: 0
+  - ShowName: "\u4E03\u6D77"
+    Serifu: "\u8BF6!?\u554A\uFF0C\u662F\u7684\u2026\u62DC\u6258\u4E86\u2026"
+    Voice: {fileID: 8300000, guid: 7d354bda53bfe2a488461d0a76aa32ff, type: 3}
+    ChangeBgm: {fileID: 0}
+    ChangeBg: {fileID: 0}
+    PerformMark: 0
+  - ShowName: "\u7FBD\u6708"
+    Serifu: "\u600E\u4E48\u4E86\uFF0C\u8EAB\u4F53\u4E5F\u4E0D\u8212\u670D\u5417?\u8138\u5F88\u7EA2\u554A?"
+    Voice: {fileID: 8300000, guid: 8c8e452b8ebc99f4fbc1401fce5f895d, type: 3}
+    ChangeBgm: {fileID: 0}
+    ChangeBg: {fileID: 0}
+    PerformMark: 0
+  - ShowName: "\u3055\u3068\u308B"
+    Serifu: "\u53EA\u662F\u56E0\u4E3A\u88AB\u53EB\u540D\u5B57\u800C\u5BB3\u7F9E\uFF0C\u8BF7\u4E0D\u8981\u5728\u610F\u3002"
+    Voice: {fileID: 0}
+    ChangeBgm: {fileID: 0}
+    ChangeBg: {fileID: 0}
+    PerformMark: 0
+  - ShowName: "\u7FBD\u6708"
+    Serifu: "\u554A,\u5BF9\u4E0D\u8D77\u3002\u592A\u7A81\u7136\u4E86\u3002\u6709\u70B9\u5931\u793C\u4E86"
+    Voice: {fileID: 8300000, guid: c757d3dd5dce8204797626fc30bf88f5, type: 3}
+    ChangeBgm: {fileID: 0}
+    ChangeBg: {fileID: 0}
+    PerformMark: 0
